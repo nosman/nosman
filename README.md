@@ -26,7 +26,7 @@ Contact me:
 
 #### ⭐ Recent stars
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 month ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 month ago)
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs (1 month ago)
 - [ocsigen/wax](https://github.com/ocsigen/wax) - Rust-like syntax for WebAssembly featuring a full toolchain for conversion, type-checking, and auto-formatting. (1 month ago)
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language (1 month ago)
