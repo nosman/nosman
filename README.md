@@ -7,14 +7,14 @@ Outside of work I'm building [shadowgraph](https://shadowgraph.io), a search eng
 I have a soft spot for functional programming languages like Ocaml and Rust, and developer tooling like Git.
 
 Contact me:
-[LinkedIn](https://www.linkedin.com/in/stephanos-tsoucas/) or stephanos [dot] tsoucas @ gmail.com
+[LinkedIn](https://www.linkedin.com/in/stephanos-tsoucas/)
 
 <img src="./profile/stats.svg" alt="GitHub stats" height="165"> <img src="./profile/top-langs.svg" alt="Top languages" height="165">
 
 #### 👷 What I'm working on
 
 - [nosman/gossamer](https://github.com/nosman/gossamer) - Track your thought process alongside your code (2 months ago)
-- [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew (6 months ago)
+- [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew (7 months ago)
 
 #### 🌱 Latest projects
 
