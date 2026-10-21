@@ -28,6 +28,6 @@ Contact me:
 
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (1 month ago)
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs (1 month ago)
-- [ocsigen/wax](https://github.com/ocsigen/wax) - Rust-like syntax for WebAssembly featuring a full toolchain for conversion, type-checking, and auto-formatting. (1 month ago)
+- [ocsigen/wax](https://github.com/ocsigen/wax) - Rust-like syntax for WebAssembly featuring a full toolchain for conversion, type-checking, and auto-formatting. (2 months ago)
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language (2 months ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (2 months ago)
