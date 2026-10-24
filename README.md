@@ -13,16 +13,17 @@ Contact me:
 
 #### 👷 What I'm working on
 
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (today)
 - [nosman/gossamer](https://github.com/nosman/gossamer) - Track your thought process alongside your code (2 months ago)
 - [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew (7 months ago)
 
 #### 🌱 Latest projects
 
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper
 - [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew
 - [nosman/gossamer](https://github.com/nosman/gossamer) - Track your thought process alongside your code
 - [nosman/Bson2](https://github.com/nosman/Bson2) - Bson encodings for Ocaml
 - [nosman/Ocamlapi](https://github.com/nosman/Ocamlapi) - Path-based http request routing in Ocaml.
-- [nosman/DiHMM](https://github.com/nosman/DiHMM)
 
 #### ⭐ Recent stars
 
