@@ -13,7 +13,7 @@ Contact me:
 
 #### 👷 What I'm working on
 
-- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (6 days ago)
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (1 week ago)
 - [nosman/gossamer](https://github.com/nosman/gossamer) - Track your thought process alongside your code (2 months ago)
 - [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew (7 months ago)
 
@@ -27,7 +27,7 @@ Contact me:
 
 #### ⭐ Recent stars
 
-- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (4 days ago)
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (5 days ago)
 - [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) - OSS Verify: enrollment and build instructions for formally verifying open-source fuzz targets (1 week ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. (2 months ago)
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs (2 months ago)
