@@ -28,7 +28,7 @@ Contact me:
 #### ⭐ Recent stars
 
 - [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (2 weeks ago)
-- [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) - OSS Verify: enrollment and build instructions for formally verifying open-source fuzz targets (2 weeks ago)
+- [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) - OSS Verify: enrollment and build instructions for formally verifying open-source fuzz targets (3 weeks ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime. (2 months ago)
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs (2 months ago)
 - [ocsigen/wax](https://github.com/ocsigen/wax) - Rust-like syntax for WebAssembly featuring a full toolchain for conversion, type-checking, and auto-formatting. (2 months ago)
