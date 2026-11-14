@@ -13,7 +13,7 @@ Contact me:
 
 #### 👷 What I'm working on
 
-- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (2 weeks ago)
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (3 weeks ago)
 - [nosman/gossamer](https://github.com/nosman/gossamer) - Track your thought process alongside your code (3 months ago)
 - [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew (7 months ago)
 
