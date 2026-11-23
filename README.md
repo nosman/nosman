@@ -13,7 +13,7 @@ Contact me:
 
 #### 👷 What I'm working on
 
-- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (4 weeks ago)
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (1 month ago)
 - [nosman/gossamer](https://github.com/nosman/gossamer) - Track your thought process alongside your code (3 months ago)
 - [nosman/homebrew-gossamer](https://github.com/nosman/homebrew-gossamer) - To make gossamer installable via homebrew (8 months ago)
 
@@ -27,8 +27,8 @@ Contact me:
 
 #### ⭐ Recent stars
 
-- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (3 weeks ago)
+- [nosman/shadowgraph-extension](https://github.com/nosman/shadowgraph-extension) - Chrome extension for Shadowgraph: what people say about a GitHub repo on Hacker News, Reddit and X, and the repos citing an arXiv paper (4 weeks ago)
 - [theorem-labs/oss-verify](https://github.com/theorem-labs/oss-verify) - OSS Verify: enrollment and build instructions for formally verifying open-source fuzz targets (1 month ago)
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime. (2 months ago)
-- [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs (2 months ago)
+- [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs (3 months ago)
 - [ocsigen/wax](https://github.com/ocsigen/wax) - Rust-like syntax for WebAssembly featuring a full toolchain for conversion, type-checking, and auto-formatting. (3 months ago)
